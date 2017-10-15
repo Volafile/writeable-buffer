@@ -1,0 +1,8 @@
+{
+  "name": "writeable-buffer",
+  "version": "1.0.0",
+  "author": "laino",
+  "dependencies": {
+    "async": ""
+  }
+}
