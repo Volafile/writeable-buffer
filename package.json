@@ -1,8 +1,22 @@
 {
   "name": "writeable-buffer",
-  "version": "1.0.0",
-  "author": "laino",
+  "description": "A Writeable that buffers all data it receives.",
+  "version": "1.0.1",
+  "homepage": "https://github.com/Volafile/writeable-buffer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Volafile/writeable-buffer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Volafile/writeable-buffer/issues"
+  },
+  "author": {
+    "name": "laino",
+    "email": "lain@volafile.org"
+  },
   "dependencies": {
     "async": ""
-  }
+  },
+  "private": false
 }
